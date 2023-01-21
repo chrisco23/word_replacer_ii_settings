@@ -1,0 +1,47 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "repA": " elon ",
+      "repB": " shitbird ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": " musk ",
+      "repB": " assclown ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": " trump ",
+      "repB": " dingleberry ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": " Elon ",
+      "repB": " Shitbird ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": " Musk ",
+      "repB": " Assclown ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "Trump ",
+      "repB": " Dingleberry ",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    }
+  ]
+}
