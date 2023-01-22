@@ -2,43 +2,64 @@
   "version": "2.0.10",
   "replacements": [
     {
+      "active": true,
+      "case": "Maintain",
       "repA": " elon ",
       "repB": " shitbird ",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": " musk ",
       "repB": " assclown ",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": " trump ",
       "repB": " dingleberry ",
-      "type": "Simple",
-      "case": "Maintain",
-      "active": true
+      "type": "Simple"
     },
     {
+      "active": true,
+      "case": "Maintain",
       "repA": " Elon ",
       "repB": " Shitbird ",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": " Musk ",
+      "repB": " Assclown ",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Trump ",
+      "repB": " Dingleberry ",
+      "type": "Simple"
+    },
+    {
+      "repA": "Elon ",
+      "repB": "Shitbird ",
       "type": "Simple",
       "case": "Maintain",
       "active": true
     },
     {
-      "repA": " Musk ",
-      "repB": " Assclown ",
+      "repA": "Musk ",
+      "repB": "Assclown ",
       "type": "Simple",
       "case": "Maintain",
       "active": true
     },
     {
       "repA": "Trump ",
-      "repB": " Dingleberry ",
+      "repB": "Dingleberry ",
       "type": "Simple",
       "case": "Maintain",
       "active": true
